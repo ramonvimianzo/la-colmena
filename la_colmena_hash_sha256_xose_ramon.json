@@ -1,0 +1,18 @@
+{
+  "proyecto": "La Colmena",
+  "autor_intelectual": "Xosé Ramón Ramos Fandiño",
+  "rol": "Fundador y Autor Intelectual",
+  "fecha_creacion": "2026-02-20",
+  "descripcion": "Sistema de IA distribuida descentralizada sin propietario. Constitución v4.0, Arquitectura v3.0, Análisis de Desalineación v1.0. Diseño completo con 11 artículos constitucionales inmutables, arquitectura Chasis/Motor en Rust, red P2P, aprendizaje federado, 70 puertas traseras identificadas y cerradas, probabilidad de desalineación significativa del 2.3%.",
+  "documentos": [
+    "constitucion_la_colmena_v4.docx",
+    "arquitectura_la_colmena_v3.docx",
+    "analisis_desalineacion_colmena_v1.docx",
+    "glosario_la_colmena_v2.docx",
+    "la_colmena_presentacion_ingenieros.docx",
+    "la_colmena_llamada_colaboradores_madrust.docx"
+  ],
+  "licencia": "AGPL-3.0 con Cláusula Adicional de No Monetización irrevocable",
+  "timestamp": "2026-02-20T20:44:40.724Z",
+  "hash_sha256": "5df7bec52beb1bd7388a117203ef6276264af95dc8e75561fa76b8c2b54c08c5"
+}

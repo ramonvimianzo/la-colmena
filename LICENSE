@@ -1,0 +1,119 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2026 La Colmena Project — Fundador y Autor Intelectual
+
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
+
+  When we speak of free software, we are referring to freedom, not
+price. Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), that you receive source code or can get it if you
+want it, that you can change the software or use pieces of it in new
+free programs, and that you know you can do these things.
+
+  Developers that use the GNU AGPL protect your rights with two steps:
+(1) assert copyright on the software, and (2) offer you this License
+which gives you legal permission to copy, distribute and/or modify
+the software.
+
+  For the full text of the GNU Affero General Public License v3.0,
+see: https://www.gnu.org/licenses/agpl-3.0.en.html
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+           CLÁUSULA ADICIONAL DE NO MONETIZACIÓN — IRREVOCABLE
+              Additional Non-Monetization Clause — Irrevocable
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Esta cláusula adicional forma parte indisoluble de la licencia de este
+software y se aplica a todas las versiones, derivados y distribuciones
+del mismo. Es irrevocable y no puede ser eliminada ni modificada por
+ninguna persona, empresa u organización.
+
+This additional clause is an inseparable part of this software license
+and applies to all versions, derivatives and distributions thereof.
+It is irrevocable and cannot be removed or modified by any person,
+company or organization.
+
+PROHIBICIÓN ABSOLUTA DE MONETIZACIÓN:
+ABSOLUTE PROHIBITION OF MONETIZATION:
+
+Ninguna persona física, persona jurídica, empresa, organización,
+gobierno ni entidad de ningún tipo puede cobrar dinero, criptomonedas,
+tokens, bienes, servicios ni ninguna otra forma de compensación por:
+
+No natural person, legal entity, company, organization, government or
+entity of any kind may charge money, cryptocurrencies, tokens, goods,
+services or any other form of compensation for:
+
+  (a) Acceso al software La Colmena o cualquier derivado del mismo.
+      Access to the La Colmena software or any derivative thereof.
+
+  (b) Uso del software La Colmena o cualquier derivado del mismo.
+      Use of the La Colmena software or any derivative thereof.
+
+  (c) Instalación, distribución, alojamiento o mantenimiento del
+      software La Colmena o cualquier derivado del mismo.
+      Installation, distribution, hosting or maintenance of the
+      La Colmena software or any derivative thereof.
+
+  (d) Cualquier servicio construido sobre, que dependa de, o que
+      utilice el software La Colmena o cualquier derivado del mismo.
+      Any service built upon, dependent on, or using the La Colmena
+      software or any derivative thereof.
+
+  (e) Cualquier modelo de IA entrenado total o parcialmente usando
+      el software, arquitectura o datos de La Colmena.
+      Any AI model trained wholly or partially using the software,
+      architecture or data of La Colmena.
+
+Esta prohibición es permanente, global e incondicional. No admite
+excepciones, interpretaciones restrictivas ni elusión mediante
+estructuras corporativas, subsidiarias o intermediarios.
+
+This prohibition is permanent, global and unconditional. It admits
+no exceptions, restrictive interpretations or circumvention through
+corporate structures, subsidiaries or intermediaries.
+
+HERENCIA OBLIGATORIA:
+MANDATORY INHERITANCE:
+
+Cualquier trabajo derivado de este software debe incluir esta misma
+cláusula de no monetización en su licencia, de forma íntegra e
+inmodificada. La cadena de herencia es infinita — ningún derivado,
+en ningún momento, puede liberarse de esta cláusula.
+
+Any derivative work of this software must include this same
+non-monetization clause in its license, in full and unmodified form.
+The chain of inheritance is infinite — no derivative, at any time,
+can be freed from this clause.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+           REGISTRO DE AUTORÍA / AUTHORSHIP RECORD
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Autor intelectual / Intellectual Author: La Colmena Project — Fundador
+Fecha de creación / Creation date: 20 de febrero de 2026
+Hash SHA-256 del diseño original / SHA-256 hash of original design:
+4e4424e50a1ebd33387e2433d2f53b660d87b3e1311b793a60261d44e9e0306c
+
+Este hash constituye prueba criptográfica de la existencia del diseño
+completo del proyecto en la fecha indicada.
+
+This hash constitutes cryptographic proof of the existence of the
+complete project design on the indicated date.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+La Colmena — 2026 — "Sin propietario. Sin servidor. Sin silencio."
