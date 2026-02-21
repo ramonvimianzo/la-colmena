@@ -95,8 +95,8 @@ Las IAs actuales no pueden ocupar este espacio por diseño — va contra su mode
 ## Estado del proyecto
 
 - [x] Diseño conceptual completo
-- [x] Constitución v4.0 — 11 artículos, jerarquía constitucional
-- [x] Arquitectura técnica v3.0 — stack, protocolos, 27 parámetros del Núcleo Duro
+- [x] Constitución v5.0 — 11 artículos, jerarquía constitucional
+- [x] Arquitectura técnica v4.0 — stack, protocolos, 27 parámetros del Núcleo Duro
 - [x] Análisis de seguridad — 8 revisiones, 70 puertas traseras cerradas
 - [x] Análisis de desalineación — 2.3% desalineación significativa
 - [x] Licencia AGPL-3.0 con cláusula de no monetización
@@ -133,8 +133,8 @@ El diseño está completo. Lo que falta es el equipo que lo construya.
 
 | Documento | Descripción |
 |-----------|-------------|
-| [`constitucion_la_colmena_v4.docx`](docs/constitucion_la_colmena_v4.docx) | 11 artículos inmutables, jerarquía constitucional, limitaciones honestas |
-| [`arquitectura_la_colmena_v3.docx`](docs/arquitectura_la_colmena_v3.docx) | Stack, protocolos, jerarquía de protocolos, 27 parámetros |
+| [`constitucion_la_colmena_v5.docx`](docs/constitucion_la_colmena_v5.docx) | 11 artículos inmutables, jerarquía constitucional, limitaciones honestas |
+| [`arquitectura_la_colmena_v4.docx`](docs/arquitectura_la_colmena_v4.docx) | Stack, protocolos, jerarquía de protocolos, 27 parámetros |
 | [`analisis_desalineacion_colmena_v1.docx`](docs/analisis_desalineacion_colmena_v1.docx) | 59 riesgos, comparativa IAs, análisis inteligencia a 2 años |
 | [`glosario_la_colmena_v2.docx`](docs/glosario_la_colmena_v2_actual.docx) | Terminología oficial del proyecto |
 | [`certificado_autoria_legal.docx`](docs/la_colmena_certificado_autoria_legal.docx) | Licencia, hash SHA-256, protección legal |
